@@ -2,7 +2,9 @@
 This respository provides scripts and example data for the hydrography visualization app described in "Harnessing the power of Scientific Python to Investigate Metaproteomes and Biogeochemistry of the Central Pacific Ocean" (Proceedings of the 17th Python in Science Conference, 2018) by Noelle Held, Jaclyn Saunders, Joe Futrelle, and Mak Saito.
 
 ## Installing and running the application
-The application is organized in a Jupyter notebook. The final output is a standalone HTML file. Please note that the application is optimized for large format screens.
+The application is organized in a Jupyter notebook. 
+
+The final output is a standalone HTML file. If you do not wish to run the code on your own computer, you can still access the visualizations by opening the HTML file included in the repo in any browser. Please note that the application is optimized for large format screens.
 
 This application makes use of Bokeh (https://github.com/bokeh/bokeh) and pandas (https://github.com/pandas-dev/pandas). It is important to use the exact version of Bokeh in particular; see enviornment.yml.
 
