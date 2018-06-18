@@ -1,0 +1,10 @@
+name: proteomz_app
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6.5
+  - bokeh=0.12.15
+  - pandas=0.22.0
+  - jupyter
+
